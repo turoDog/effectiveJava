@@ -1,5 +1,5 @@
 package twenty.hierarchy;
 
-public class Figure {
+public abstract class Figure {
 	abstract double area();
 }
