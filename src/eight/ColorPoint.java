@@ -9,8 +9,7 @@ public class ColorPoint extends Point {
 		this.color = color;
 	}
 	
-	//ÆÆËé - Î¥·´¶Ô³Æ£¡
-	@Override
+	
 	public boolean equals(Object obj) {
 		if (!(obj instanceof ColorPoint)) {
 			return false;
