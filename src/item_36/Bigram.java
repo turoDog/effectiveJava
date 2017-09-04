@@ -30,7 +30,4 @@ public class Bigram {
 		}
 		System.out.println(s.size());
 	}
-	
-	
-
 }
