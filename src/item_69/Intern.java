@@ -1,5 +1,6 @@
 package item_69;
 
+import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
 public class Intern {
